@@ -1,0 +1,9 @@
+name: YoutubeProject
+main: MasterDoctor\YoutubeProject\MainClass
+version: 1.0.0
+api: 1.0.0
+commands:
+  heal:
+    description: "This will heal players."
+    usage: "/heal"
+    permission: YoutubeProject.heal
